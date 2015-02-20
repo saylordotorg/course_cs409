@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS409: Cryptography"
+course_description: "A study of the conventional encryption systems and classical cryptography, exploring the use of secret key (or symmetric) cryptography, public-key (or asymmetric) cryptography, and hash functions."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Elliptic Curve Cryptography** <span id="6"></span> 
 *This unit will cover elliptic curve cryptography.  This approach to
 public-key cryptography is based on the algebraic structure of elliptic

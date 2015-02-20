@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS409: Cryptography"
+course_description: "A study of the conventional encryption systems and classical cryptography, exploring the use of secret key (or symmetric) cryptography, public-key (or asymmetric) cryptography, and hash functions."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Classical Cryptography** <span id="2"></span> 
 *In this unit, we will learn to describe and analyze the following
 classical ciphers:* *ADFGVX, Affine, Beaufort, Bifid, Caesar, Columnar

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS409: Cryptography"
+course_description: "A study of the conventional encryption systems and classical cryptography, exploring the use of secret key (or symmetric) cryptography, public-key (or asymmetric) cryptography, and hash functions."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Block Ciphers** <span id="3"></span> 
 *In this unit, we will start with an explanation of the
 substitution-permutation network, which works through the series of

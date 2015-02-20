@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS409: Cryptography"
+course_description: "A study of the conventional encryption systems and classical cryptography, exploring the use of secret key (or symmetric) cryptography, public-key (or asymmetric) cryptography, and hash functions."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Hash Functions** <span id="4"></span> 
 *This unit will introduce the concept of “hash” and then present the
 important MD5 and SHA-1 hash functions.  (MD5 is a widely used

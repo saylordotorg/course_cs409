@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS409: Cryptography"
+course_description: "A study of the conventional encryption systems and classical cryptography, exploring the use of secret key (or symmetric) cryptography, public-key (or asymmetric) cryptography, and hash functions."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introduction into Cryptography** <span id="1"></span> 
 *This unit provides an overview of cryptography, the study of
 information-hiding and verification.  Cryptography insures the
