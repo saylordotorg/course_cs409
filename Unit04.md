@@ -57,7 +57,7 @@ Upon successful completion of this unit, students will be able to:
 **4.2.1 MD5** <span id="4.2.1"></span> 
 -   **Reading: Wikipedia’s “MD5”**
     Link: Wikipedia’s
-    [“MD5](http://www.saylor.org/site/wp-content/uploads/2012/07/MD51.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/07/MD51.pdf)
+    [“MD5](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MD51.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MD51.pdf)
     (PDF)  
         
      Instructions: Read about the MD5, which is a widely used
@@ -73,7 +73,7 @@ Upon successful completion of this unit, students will be able to:
 **4.2.2 SHA-1** <span id="4.2.2"></span> 
 -   **Reading: Wikipedia’s “SHA-1”**
     Link: Wikipedia’s
-    [“SHA-1](http://www.saylor.org/site/wp-content/uploads/2012/07/SHA-1-1.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/07/SHA-1-1.pdf)
+    [“SHA-1](https://resources.saylor.org/archived/wp-content/uploads/2012/07/SHA-1-1.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/SHA-1-1.pdf)
     (PDF)  
         
      Instructions: Read about the cryptographic hash function designed
@@ -89,7 +89,7 @@ Upon successful completion of this unit, students will be able to:
 **4.2.3 Message Authentication Code** <span id="4.2.3"></span> 
 -   **Reading: Wikipedia’s “Message Authentication Code”**
     Link: Wikipedia’s [“Message Authentication
-    Code](http://www.saylor.org/site/wp-content/uploads/2012/07/Message-authentication-code1.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/07/Message-authentication-code1.pdf)
+    Code](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Message-authentication-code1.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Message-authentication-code1.pdf)
     (PDF)  
         
      Instructions: Read the linked article about message authentication
@@ -104,7 +104,7 @@ Upon successful completion of this unit, students will be able to:
 **4.3 Cryptographic Hashing Function in Code** <span id="4.3"></span> 
 -   **Reading: OWASP’s “Cryptographic Hashing Function”**
     Link: OWASP’s [“Cryptographic Hashing
-    Function](http://www.saylor.org/site/wp-content/uploads/2012/07/CS409-4.3.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/07/CS409-4.3.pdf)
+    Function](https://resources.saylor.org/archived/wp-content/uploads/2012/07/CS409-4.3.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/CS409-4.3.pdf)
     (PDF)  
         
      Instructions: Create a Java language program that runs
