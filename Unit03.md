@@ -40,7 +40,7 @@ Upon successful completion of this unit, students will be able to:
 **3.1 Substitution-permutation Network** <span id="3.1"></span> 
 -   **Reading: Wikipedia’s “Substitution-Permutation Network”**
     Link: Wikipedia’s [“Substitution-Permutation
-    Network](http://www.saylor.org/site/wp-content/uploads/2012/07/Substitution-permutation-network-.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/07/Substitution-permutation-network-.pdf)
+    Network](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Substitution-permutation-network-.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Substitution-permutation-network-.pdf)
     (PDF)  
         
      Instructions: Read this article to learn about
@@ -55,7 +55,7 @@ Upon successful completion of this unit, students will be able to:
 **3.2 Data Encryption Standard** <span id="3.2"></span> 
 -   **Reading: www.itl.nist.gov’s “Data Encryption Standard”**
     Link: www.itl.nist.gov’s [“Data Encryption
-    Standard](http://www.saylor.org/site/wp-content/uploads/2012/07/CS409-3.2.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/07/CS409-3.2.pdf)
+    Standard](https://resources.saylor.org/archived/wp-content/uploads/2012/07/CS409-3.2.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/CS409-3.2.pdf)
     (PDF)  
         
      Instructions: Carefully read the webpage to learn about the
@@ -69,7 +69,7 @@ Upon successful completion of this unit, students will be able to:
 **3.3 Advanced Encryption Standard** <span id="3.3"></span> 
 -   **Reading: Wikipedia’s “Advanced Encryption Standard”**
     Link: Wikipedia’s [“Advanced Encryption
-    Standard](http://www.saylor.org/site/wp-content/uploads/2012/06/Advanced-Encryption-Standard.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/06/Advanced-Encryption-Standard.pdf)
+    Standard](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Advanced-Encryption-Standard.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Advanced-Encryption-Standard.pdf)
     (PDF)  
       
      Instructions: Read the article about advanced encryption standard. 
