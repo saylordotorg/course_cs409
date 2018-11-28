@@ -222,7 +222,7 @@ id="2.1.14"></span> 
 **2.3 Ciphers in Code** <span id="2.3"></span> 
 -   **Activity: home.cogeco.ca: John Russell’s “Cryptology Programs”**
     Link: home.cogeco.ca: John Russell’s [“Cryptology
-    Programs](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Cryptology-Programs.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Cryptology-Programs.pdf)
+    Programs](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Cryptology-Programs.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Cryptology-Programs.pdf)
     (PDF)  
         
      Instructions: If you do not have java compiler on your computer,

@@ -40,7 +40,7 @@ Upon successful completion of this unit, students will be able to:
 **1.1 Introduction** <span id="1.1"></span> 
 -   **Reading: Wikibooks’ “Cryptography: Introduction”**
     Link: Wikibooks’ [“Cryptography:
-    Introduction](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Introduction.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Introduction.pdf)
+    Introduction](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Introduction.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Introduction.pdf)
     (PDF)  
         
      Instructions: Read the article for a general introduction to
@@ -60,7 +60,7 @@ Upon successful completion of this unit, students will be able to:
 **1.2 History of Cryptography** <span id="1.2"></span> 
 -   **Reading: Wikibooks’ “Cryptography: History”**
     Link: Wikibooks’ [“Cryptography:
-    History”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/History.pdf)
+    History”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/History.pdf)
     (PDF)  
         
      Instructions: Read this article to familiarize yourself with
@@ -140,7 +140,7 @@ and Policy** <span id="1.5"></span> 
 **1.6 Stats in Code** <span id="1.6"></span> 
 -   **Activity: home.cogeco.ca: John Russell’s “Frequency Counting”**
     Link: home.cogeco.ca: John Russell’s [“Frequency
-    Counting](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Cryptology-Programs.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Cryptology-Programs.pdf)
+    Counting](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Cryptology-Programs.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Cryptology-Programs.pdf)
     (PDF)  
         
      Instructions: If you do not have java compiler on your computer,

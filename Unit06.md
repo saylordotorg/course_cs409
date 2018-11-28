@@ -26,7 +26,7 @@ Upon successful completion of this unit, students will be able to:
 **6.1 Elliptic Curve Cryptography** <span id="6.1"></span> 
 -   **Reading: Wikipedia’s “Elliptic Curve Cryptography”**
     Link: Wikipedia’s [“Elliptic Curve
-    Cryptography](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Elliptic-curve-cryptography.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Elliptic-curve-cryptography.pdf)
+    Cryptography](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Elliptic-curve-cryptography.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Elliptic-curve-cryptography.pdf)
     (PDF)  
         
      Instructions: Read the introduction to learn about Elliptic Curve
@@ -41,7 +41,7 @@ Upon successful completion of this unit, students will be able to:
 **6.2 Elliptic Curves** <span id="6.2"></span> 
 -   **Reading: PlanetMath: David Jao’s “Elliptic Curves”**
     Link: PlanetMath: David Jao’s [“Elliptic
-    Curves](https://resources.saylor.org/archived/wp-content/uploads/2012/07/CS409-6.2.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/CS409-6.2.pdf)
+    Curves](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/CS409-6.2.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/CS409-6.2.pdf)
     (PDF)  
         
      Instructions: Read the “Basics” and “Example” sections of this
@@ -61,7 +61,7 @@ Upon successful completion of this unit, students will be able to:
 -   **Reading: PlanetMath: Cameron McLeman’s “Diffie-Hellman Key
     Exchange”**
     Link: PlanetMath: Cameron McLeman’s [“Diffie-Hellman Key
-    Exchange](https://resources.saylor.org/archived/wp-content/uploads/2012/07/CS409-6.2.1-1.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/CS409-6.2.1-1.pdf)
+    Exchange](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/CS409-6.2.1-1.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/CS409-6.2.1-1.pdf)
     (PDF)  
         
      Instructions: Read the linked webpage to learn how to exchange the
@@ -81,7 +81,7 @@ id="6.2.2"></span> 
     Logarithm Problem”**
     Link: PlanetMath: Cameron McLeman’s [“Elliptic Curve Discrete
     Logarithm
-    Problem](https://resources.saylor.org/archived/wp-content/uploads/2012/07/CS409-6.2.2.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/CS409-6.2.2.pdf)
+    Problem](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/CS409-6.2.2.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/CS409-6.2.2.pdf)
     (HTML)  
         
      Instructions: Read the linked webpage, which introduces elliptic

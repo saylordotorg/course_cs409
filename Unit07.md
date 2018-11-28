@@ -40,7 +40,7 @@ Upon successful completion of this unit, students will be able to:
 **7.1 Key Exchange** <span id="7.1"></span> 
 -   **Reading: Wikipedia’s “Key Exchange”**
     Link: Wikipedia’s [“Key
-    Exchange](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Key-exchange1.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Key-exchange1.pdf)
+    Exchange](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Key-exchange1.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Key-exchange1.pdf)
     (PDF)  
         
      Instructions: Read the linked article to learn how to exchange
@@ -56,7 +56,7 @@ Upon successful completion of this unit, students will be able to:
 **7.2 Discrete Logarithm** <span id="7.2"></span> 
 -   **Reading: PlanetMath: Christoph Bergemann’s “Discrete Logarithm”**
     Link: PlanetMath: Christoph Bergemann’s [“Discrete
-    Logarithm](https://resources.saylor.org/archived/wp-content/uploads/2012/07/CS409-7.2.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/CS409-7.2.pdf)
+    Logarithm](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/CS409-7.2.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/CS409-7.2.pdf)
     (PDF)  
         
      Instructions: Read about the discrete logarithm problem, which is
@@ -73,7 +73,7 @@ Upon successful completion of this unit, students will be able to:
 **7.3 The ElGamal Signature Schemes** <span id="7.3"></span> 
 -   **Reading: Wikipedia’s “ElGamal Signature Schemes”**
     Link: Wikipedia’s [“ElGamal Signature
-    Schemes](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ElGamal-signature-scheme.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ElGamal-signature-scheme.pdf)
+    Schemes](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ElGamal-signature-scheme.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ElGamal-signature-scheme.pdf)
     (PDF)  
         
      Instructions: Read the linked article to learn about the system
@@ -116,7 +116,7 @@ Upon successful completion of this unit, students will be able to:
 **7.5 Public Key Infrastructure** <span id="7.5"></span> 
 -   **Reading: Wikipedia’s “Public Key Infrastructure”**
     Link: Wikipedia’s [“Public Key
-    Infrastructure](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Public-key-infrastructure1.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Public-key-infrastructure1.pdf)
+    Infrastructure](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Public-key-infrastructure1.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Public-key-infrastructure1.pdf)
     (PDF)  
         
      Instructions: Read the linked article for general overview of
